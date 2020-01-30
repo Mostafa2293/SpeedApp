@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeedApp</string>
+    <string name="info">Waiting for GPS...</string>
+</resources>
